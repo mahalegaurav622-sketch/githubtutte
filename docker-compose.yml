@@ -1,0 +1,5 @@
+version: '3.8'
+services:
+ docer-in-one-shot:
+  image: 'mongo:latest'
+  container_name: 'docer-in-one-shot'
